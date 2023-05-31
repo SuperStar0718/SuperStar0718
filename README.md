@@ -2,7 +2,7 @@ Hi there, I'm a senior Full-stack | Python Django, Flask | Desktop Application  
 
 👦🏻 **Pronouns**: He/Him
 
-🔭 **I’m currently working on**: Full Stack Development Python Django Flask and Desktop Application , Qt, PyQt5, Reverse Engineering, Defi, Dapp, NFT , Web3 , marketplace(Opensea, 0xv4), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO, PancakeSwap)  and other Ecommerce sites (for real though, I love starting stuff from
+🔭 **I’m currently working on**: Full Stack Development with Laravel, React, React Native, Vue, Angular, CodeIgniter, Python Django Flask and Desktop Application , Qt, PyQt5, Reverse Engineering, Defi, Dapp, NFT , Web3 , marketplace(Opensea, 0xv4), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO, PancakeSwap)  and other Ecommerce sites (for real though, I love starting stuff from
 scratch and fresh ideas).
 
 🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Internet Security**.
